@@ -1,0 +1,19 @@
+{
+  "name": "bootcamp_project_mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iadh05/bootcamp_project_MERN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iadh05/bootcamp_project_MERN/issues"
+  },
+  "homepage": "https://github.com/iadh05/bootcamp_project_MERN#readme"
+}
